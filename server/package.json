@@ -1,0 +1,29 @@
+{
+  "name": "travelapp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "4.0",
+    "mongoose": "^6.12.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhmedniyasnk/TravelServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muhmedniyasnk/TravelServer/issues"
+  },
+  "homepage": "https://github.com/muhmedniyasnk/TravelServer#readme",
+  "description": ""
+}
